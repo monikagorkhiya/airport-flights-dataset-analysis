@@ -1,8 +1,8 @@
 # airport-flights-dataset-analysis
 
-## CSV Field Explanation 
+## CSV Fields Explanation 
 ```
-Day0fMonth : shows the size of the day in a month which has a value from 1-31
+DayofMonth : shows the size of the day in a month which has a value from 1-31
 DayofWeek : shows what day of the week it is
 carrier : The column carrier indicates the airline, but it uses two-character carrier codes.  (The carrier code for Delta is "DL", for American is "AA", and for United is "UA". Using these carriers codes, we check whether carrier is one of those.)
 OriginAirportID : shows the specific id of an arrival airport
